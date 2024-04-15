@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "张琨"
+description              : "自然语言处理，大语言模型，推荐系统"
+repository               : "zhangkunzk/zhangkunzk.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "张琨"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "合肥工业大学"
+  location         : "安徽 合肥"
+  employer         : #"Hefei University of Technology"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=40coXH4AAAAJ"
+  email            : "zhang1028kun@gmail.com"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "zhangkunzk"
   google_plus      :
   keybase          :
   instagram        :
