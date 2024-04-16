@@ -4,4 +4,4 @@ I have been selected for the 2022 MSRA StarTrack Scholar,  won the Chinese Acade
 
 in Semantic Representation, Large Language Models, Causal Reasoning and Debiased Learning, Recommender System. If you are seeking any form of **academic cooperation**, please feel free to email me at [zhang1028kun@gmail.com](mailto:zhang1028kun@gmail.com)
 
-<font color=Red>**<u>I am  looking forward self-motivated students to join us, feel free to contact me.</u>**</font>
+<font color=Red><u>**I am  looking forward self-motivated students to join us, feel free to contact me.**</u></font>
