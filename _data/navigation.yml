@@ -4,16 +4,15 @@ main:
     url: "/#about-me"
 
   - title: "Contact"
-    url: "/#-xl"
+    url: "/#-contact"
+
+  - title: "Hightlight"
+    url: "/#-hight"
 
   - title: "Publications"
-    url: "/#-lwzl"
+    url: "/#-pub"
 
-  - title: "Honors"
-    url: "/#-ryjx"
+  - title: "Talks and Honors"
+    url: "/#-honor"
 
-  - title: "Talks"
-    url: "/#-xshy"
 
-  - title: "Experiences"
-    url: "/#-gzsx"
