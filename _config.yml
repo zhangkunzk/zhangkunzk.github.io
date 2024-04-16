@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "张琨"
+  name             : "Kun Zhang(张琨)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "合肥工业大学"
-  location         : "安徽 合肥"
+  bio              : "Hefei University of Technology (HFUT)"
+  location         : "Hefei Anhui"
   employer         : "Hefei University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=40coXH4AAAAJ"
