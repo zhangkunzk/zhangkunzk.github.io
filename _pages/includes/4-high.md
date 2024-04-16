@@ -6,13 +6,14 @@
 <div class='paper-box-image'>
 <div>
 <div class="badge">
-IEEE TNNLS 2021
+IEEE TNNLS2022
 </div>
-<img src='images/TNNLS2022.PNG' alt="sym" width="100%">
+<img src='images/TNNLS2022.png' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 [Description-Enhanced Label Embedding Contrastive Learning for Text Classification](https://ieeexplore.ieee.org/document/10154259) \\ 
+
 
 **Kun Zhang**, Le Wu, Guangyi Lv, Enhong Chen, Shulan Ruan, Jing Liu, Zhiqiang Zhang, Jun Zhou, Meng Wang
 
