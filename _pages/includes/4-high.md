@@ -12,7 +12,8 @@ IEEE TNNLS2022
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[Description-Enhanced Label Embedding Contrastive Learning for Text Classification](https://ieeexplore.ieee.org/document/10154259) \\ 
+[Description-Enhanced Label Embedding Contrastive Learning for Text Classification](https://ieeexplore.ieee.org/document/10154259)  
+
 
 
 **Kun Zhang**, Le Wu, Guangyi Lv, Enhong Chen, Shulan Ruan, Jing Liu, Zhiqiang Zhang, Jun Zhou, Meng Wang
