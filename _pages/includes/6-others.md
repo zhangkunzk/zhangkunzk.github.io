@@ -11,6 +11,7 @@
 # 🥇 Honors and Awards
 
 - *2023.11* **National Third Prize** in CCIR CUP 2023
+- *2023.08* **National Third Prize** in China Collegiate Computing Contest 2023-Big Data Challenge 
 - *2022.08* **National Third Prize** in China Collegiate Computing Contest 2022-Big Data Challenge 
 - *2021.10* MSRA StarTrack Scholar
 - *2019.09*  Chinese Academy of Sciences President's Award
