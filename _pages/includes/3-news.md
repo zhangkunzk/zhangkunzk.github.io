@@ -1,4 +1,5 @@
-# 🔥 What's New
-2024-04-16：🎉 My personal academic page has been online
+# 🔥 News
+_2024-03-30_：🎉 One paper on Counterfactual Fairness got accepted by ACM TOIS
 
-2024-03-16：🎉 One paper on causal-based debiasing got accepted by AI Open.
+_2024-02-26_：🎉 One paper on causal-based debiasing got accepted by AI Open.
+
