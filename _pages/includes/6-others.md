@@ -19,7 +19,7 @@
 
 
 
-# 🤝Collaborators
+# 🤝 Collaborators
 
 - [Prof. Le Wu](https://le-wu.com/)
 - [Senior Engineer. Guangyi Lv](https://scholar.google.com/citations?user=5_Gzq6wAAAAJ&hl=en)

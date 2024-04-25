@@ -1,4 +1,4 @@
-# 📝Highlighted Research
+# 📝 Highlighted Research
 
 ## Sentence Semantic Representation
 
