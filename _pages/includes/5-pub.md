@@ -4,40 +4,56 @@
 My full paper list can also be found at [Google Scholar](https://scholar.google.com/citations?user=40coXH4AAAAJ).
 
 ### Semantic Representation Learning
-- ``WWWJ2024`` [A relation-aware representation approach for the question matching system](https://link.springer.com/article/10.1007/s11280-024-01255-6),Yanmin Chen, Enhong Chen, **Kun Zhang**, Qi Liu, Ruijun Sun, World Wide Web.
+- ``WWWJ2024`` A relation-aware representation approach for the question matching system. [\[Paper\]](https://link.springer.com/article/10.1007/s11280-024-01255-6)   
+Yanmin Chen, Enhong Chen, **Kun Zhang**, Qi Liu, Ruijun Sun.
 
-- ``IEEE TNNLS2023`` [Description-Enhanced Label Embedding Contrastive Learning for Text Classification](https://ieeexplore.ieee.org/document/10154259), 
-**Kun Zhang**, Le Wu, Guangyi Lv, Enhong Chen, Shulan Ruan, Jing Liu, Zhiqiang Zhang, Jun Zhou, Meng Wang, IEEE Transactions on Neural Networks and Learning Systems (JCR Q1, 10.4002)
+- ``IEEE TNNLS2023`` Description-Enhanced Label Embedding Contrastive Learning for Text Classification. [\[Paper\]](https://ieeexplore.ieee.org/document/10154259)   
+**Kun Zhang**, Le Wu, Guangyi Lv, Enhong Chen, Shulan Ruan, Jing Liu, Zhiqiang Zhang, Jun Zhou, Meng Wang.
 
-- ``ACM TOMM2022`` [PEDM: A Multi-task Learning Model for Persona-aware Emoji-embedded Dialogue Generation](https://dl.acm.org/doi/10.1145/3571819), Sirui Zhao, Hongyu Jiang, Hanqing Tao, Rui Zha, **Kun Zhang**, Tong Xu, Enhong Chen, ACM Transactions on Multimedia Computing, Communications and Applications.
+- ``ACM TOMM2022`` PEDM: A Multi-task Learning Model for Persona-aware Emoji-embedded Dialogue Generation. [\[Paper\]](https://dl.acm.org/doi/10.1145/3571819)  
+Sirui Zhao, Hongyu Jiang, Hanqing Tao, Rui Zha, **Kun Zhang**, Tong Xu, Enhong Chen.
 
-- ``IEEE TKDE2022`` [Learning from Ideography and Labels: A Schema-aware Radical-guided Associative Model for Chinese Text Classification](https://ieeexplore.ieee.org/abstract/document/9770424), Hanqing Tao, Guanqi Zhu, Enhong Chen, Shiwei Tong, **Kun Zhang**, Tong Xu, Qi Liu, Yew-Soon Ong,  IEEE Transactions on Knowledge and Data Engineering.
+- ``IEEE TKDE2022`` Learning from Ideography and Labels: A Schema-aware Radical-guided Associative Model for Chinese Text Classification. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9770424)   
+Hanqing Tao, Guanqi Zhu, Enhong Chen, Shiwei Tong, **Kun Zhang**, Tong Xu, Qi Liu, Yew-Soon Ong.
 
-- ``IEEE TNNLS2022`` [LadRa-Net: Locally-Aware Dynamic Re-read Attention Net for Sentence Semantic Matching](https://ieeexplore.ieee.org/document/9516694), **Kun Zhang**, Guangyi Lv,Le Wu, Enhong Chen, Qi Liu, Meng Wang, IEEE Transactions on Neural Networks and Learning Systems  (JCR Q1, 10.4002).
+- ``IEEE TNNLS2022`` LadRa-Net: Locally-Aware Dynamic Re-read Attention Net for Sentence Semantic Matching. [\[Paper\]](https://ieeexplore.ieee.org/document/9516694)   
+**Kun Zhang**, Guangyi Lv,Le Wu, Enhong Chen, Qi Liu, Meng Wang.
 
-- ``ACL2022 Findings`` [Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis](https://aclanthology.org/2022.findings-acl.285.pdf), Kai Zhang, **Kun Zhang**, Mengdi Zhang, Hongke Zhao, Qi Liu,Wei Wu, Enhong Chen, The 60th annual meeting of the Association for Computational Linguistics.
+- ``ACL2022 Findings`` Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis. [\[Paper\]](https://aclanthology.org/2022.findings-acl.285.pdf)   
+Kai Zhang, **Kun Zhang**, Mengdi Zhang, Hongke Zhao, Qi Liu,Wei Wu, Enhong Chen.
 
-- ``SIGIR2022`` [Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification](https://dl.acm.org/doi/abs/10.1145/3477495.3531984), Kai Zhang, Qi Liu, Zhenya Huang, Mingyue Cheng, **Kun Zhang**, Mengdi Zhang, Wei Wu, Enhong Chen, The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+- ``SIGIR2022`` Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3477495.3531984)   
+Kai Zhang, Qi Liu, Zhenya Huang, Mingyue Cheng, **Kun Zhang**, Mengdi Zhang, Wei Wu, Enhong Chen.
 
-- ``IEEE TMM2022`` [Color Enhanced Cross Correlation Net for Image Sentiment Analysis](https://ieeexplore.ieee.org/document/9566784), Shulan Ruan, **Kun Zhang**, Le Wu, Tong Xu, Qi Liu, Enhong Chen,  IEEE Transactions on Multimedia.
+- ``IEEE TMM2022`` Color Enhanced Cross Correlation Net for Image Sentiment Analysis. [\[Paper\]](https://ieeexplore.ieee.org/document/9566784)  
+Shulan Ruan, **Kun Zhang**, Le Wu, Tong Xu, Qi Liu, Enhong Chen.
 
-- ``IEEE TSMC:S2021`` [Multi-Level Image-Enhanced Sentence Representation Net for Natural Language Inference](https://ieeexplore.ieee.org/document/8820068), **Kun Zhang**, Guangyi Lv, Le Wu, Enhong Chen, Qi Liu, Han Wu, Xing Xie, Fangzhao Wu, IEEE Transaction on Systems, Man, and Cybernetics: Systems.
+- ``IEEE TSMC:S2021`` Multi-Level Image-Enhanced Sentence Representation Net for Natural Language Inference. [\[Paper\]](https://ieeexplore.ieee.org/document/8820068)   
+**Kun Zhang**, Guangyi Lv, Le Wu, Enhong Chen, Qi Liu, Han Wu, Xing Xie, Fangzhao Wu.
 
-- ``AAAI2021`` [Making the relation matters: Relation of relation learning network for sentence semantic matching](https://ojs.aaai.org/index.php/AAAI/article/view/17694/17501), **Kun Zhang**, Le Wu, Guangyi Lv, Meng Wang, Enhong Chen, Shulan Ruan, Proceedings of the AAAI conference on artificial intelligence.
+- ``AAAI2021`` Making the relation matters: Relation of relation learning network for sentence semantic matching. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17694/17501)   
+**Kun Zhang**, Le Wu, Guangyi Lv, Meng Wang, Enhong Chen, Shulan Ruan.
 
-- ``ICCV2021`` [DAE-GAN- Dynamic Aspect-aware GAN for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf), Shulan Ruan, Yong Zhang, **Kun Zhang**, Yanbo Fan, Fan Tang, Qi Liu, Enhong Chen, Proceedings of the IEEE/CVF International Conference on Computer Vision.
+- ``ICCV2021`` DAE-GAN- Dynamic Aspect-aware GAN for Text-to-Image Synthesis. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf)   
+Shulan Ruan, Yong Zhang, **Kun Zhang**, Yanbo Fan, Fan Tang, Qi Liu, Enhong Chen.
 
-- ``计算机学报2021`` [图像信息对句子语义理解与表示的有效性验证与分析](http://cjc.ict.ac.cn/online/onlinepaper/zk-202128100039.pdf), **张琨**，吕广奕，吴乐，刘淇，陈恩红, 计算机学报.
+- ``计算机学报2021`` 图像信息对句子语义理解与表示的有效性验证与分析. [\[Paper\]](http://cjc.ict.ac.cn/online/onlinepaper/zk-202128100039.pdf)   
+**张琨**，吕广奕，吴乐，刘淇，陈恩红.
 
-- ``ICME2020`` [Context-Awar Generation-Based Net For Multi-Label Visual Emotion Recognition](https://ieeexplore.ieee.org/document/9102855), Shulan Ruan, **Kun Zhang**, Yijun Wang, Hanqing Tao, Weidong He, Guangyi Lv,Enhong Chen, IEEE International Conference on Multimedia and Expo.
+- ``ICME2020`` Context-Awar Generation-Based Net For Multi-Label Visual Emotion Recognition. [\[Paper\]](https://ieeexplore.ieee.org/document/9102855)   
+Shulan Ruan, **Kun Zhang**, Yijun Wang, Hanqing Tao, Weidong He, Guangyi Lv,Enhong Chen.
 
-- ``AAAI2019`` [DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching](https://ojs.aaai.org/index.php/AAAI/article/view/4734), **Kun Zhang**, Guangyi Lv, Linyuan Wang, Le Wu, Enhong Chen, Fangzhao Wu, and Xing Xie, Proceedings of the AAAI Conference on Artificial Intelligence. 
+- ``AAAI2019`` DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/4734)   
+**Kun Zhang**, Guangyi Lv, Linyuan Wang, Le Wu, Enhong Chen, Fangzhao Wu, and Xing Xie. 
 
-- ``KDD2018`` [XiaoIce Band A Melody and Arrangement Generation Framework for pop music](https://dl.acm.org/doi/10.1145/3219819.3220105), Hongyuan Zhu, Qi Liu, Nicholas Jing Yuan, Chuan Qin, Jiawei Li, **Kun Zhang**, Guang Zhou, Furu Wei, Yuanchun Xu, Enhong Chen, The 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (<font color=Red><u>Best Student Paper Award of Research Track</U></font>)
+- ``KDD2018`` XiaoIce Band A Melody and Arrangement Generation Framework for pop music. [\[Paper\]](https://dl.acm.org/doi/10.1145/3219819.3220105)   
+Hongyuan Zhu, Qi Liu, Nicholas Jing Yuan, Chuan Qin, Jiawei Li, **Kun Zhang**, Guang Zhou, Furu Wei, Yuanchun Xu, Enhong Chen. (<font color=Red><u>Best Student Paper Award of Research Track of KDD2018</U></font>)
 
-- ``ICDM2018`` [Image-Enhanced Multi-Level Sentence Representation Net for Natural Language Inference](https://ieeexplore.ieee.org/document/8594899), **Kun Zhang**, Guangyi Lv, Le Wu, Enhong Chen, Qi Liu, and Han Wu, IEEE International Conference on Data Mining.
+- ``ICDM2018`` Image-Enhanced Multi-Level Sentence Representation Net for Natural Language Inference. [\[Paper\]](https://ieeexplore.ieee.org/document/8594899)   
+**Kun Zhang**, Guangyi Lv, Le Wu, Enhong Chen, Qi Liu, and Han Wu.
 
-- ``AAAI2017`` [A Context-Enriched Neural Network method for Recognizing Lexical Entailment](https://dl.acm.org/doi/abs/10.5555/3298483.3298688), **Kun Zhang**, Enhong Chen, Qi Liu, Chuanren Liu, and Guangyi Lv, Proceedings of the AAAI Conference on Artificial Intelligence
+- ``AAAI2017`` A Context-Enriched Neural Network method for Recognizing Lexical Entailment. [\[Paper\]](https://dl.acm.org/doi/abs/10.5555/3298483.3298688)   
+**Kun Zhang**, Enhong Chen, Qi Liu, Chuanren Liu, and Guangyi Lv.
 
 ### User Modeling
 - ``IEEE TKDE2023`` [Hyperbolic Graph Learning for Social Recommendation](https://ieeexplore.ieee.org/abstract/document/10361607/), Yonghui Yang, Le Wu, **Kun Zhang**, Richang Hong, Hailin Zhou, Zhiqiang Zhang, Jun Zhou, Meng Wang, IEEE Transactions on Knowledge and Data Engineering. 
