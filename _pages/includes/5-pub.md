@@ -56,41 +56,60 @@ Hongyuan Zhu, Qi Liu, Nicholas Jing Yuan, Chuan Qin, Jiawei Li, **Kun Zhang**, G
 **Kun Zhang**, Enhong Chen, Qi Liu, Chuanren Liu, and Guangyi Lv.
 
 ### User Modeling
-- ``IEEE TKDE2023`` [Hyperbolic Graph Learning for Social Recommendation](https://ieeexplore.ieee.org/abstract/document/10361607/), Yonghui Yang, Le Wu, **Kun Zhang**, Richang Hong, Hailin Zhou, Zhiqiang Zhang, Jun Zhou, Meng Wang, IEEE Transactions on Knowledge and Data Engineering. 
+- ``IEEE TKDE2023`` Hyperbolic Graph Learning for Social Recommendation. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10361607/)   
+Yonghui Yang, Le Wu, **Kun Zhang**, Richang Hong, Hailin Zhou, Zhiqiang Zhang, Jun Zhou, Meng Wang. 
 
-- ``IEEE TBD2023`` [Unified Representation Learning for Discrete Attribute Enhanced Completely Cold-Start Recommendation](https://www.computer.org/csdl/journal/bd/5555/01/10496230/1W28wUPxFOo), Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Meng Wang, IEEE Transactions on Big Data.
+- ``IEEE TBD2023`` Unified Representation Learning for Discrete Attribute Enhanced Completely Cold-Start Recommendation. [\[Paper\]](https://www.computer.org/csdl/journal/bd/5555/01/10496230/1W28wUPxFOo)  
+Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Meng Wang.
 
-- ``NeurIPS2023`` [Disentangling Cognitive Diagnosis with Limited Exercise Labels](https://neurips.cc/virtual/2023/poster/70446), Xiangzhi Chen, Le Wu, Fei Liu, Lei Chen, **Kun Zhang**, Richang Hong, Meng Wang, Thirty-seventh Conference on Neural Information Processing Systems.  [**EduStudio Project**](https://edustudio.ai/)
+- ``NeurIPS2023`` Disentangling Cognitive Diagnosis with Limited Exercise Labels. [\[Paper\]](https://neurips.cc/virtual/2023/poster/70446) [\[**EduStudio Project**\]](https://edustudio.ai/)  
+Xiangzhi Chen, Le Wu, Fei Liu, Lei Chen, **Kun Zhang**, Richang Hong, Meng Wang.  
 
-- ``SIGIR2023`` [Topic-enhanced Graph Neural Networks for Extraction-based Explainable Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591776), Jie Shuai, Le Wu, **Kun Zhang**, Peijie Sun, Richang Hong, Meng Wang, The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+- ``SIGIR2023`` Topic-enhanced Graph Neural Networks for Extraction-based Explainable Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3539618.3591776)  
+Jie Shuai, Le Wu, **Kun Zhang**, Peijie Sun, Richang Hong, Meng Wang.
 
-- ``SIGIR2023`` [Generative-Contrastive Graph Learning for Recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591691), Yonghui Yang, Zhengwei Wu, Le Wu, **Kun Zhang**, Richang Hong, Zhiqiang Zhang, Jun Zhou, Meng Wang, The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. 
+- ``SIGIR2023`` Generative-Contrastive Graph Learning for Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3539618.3591691)   
+Yonghui Yang, Zhengwei Wu, Le Wu, **Kun Zhang**, Richang Hong, Zhiqiang Zhang, Jun Zhou, Meng Wang. 
 
-- ``AAAI2023`` [Fair Representation Learning for Recommendation: A Mutual Information-Based Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/25617), Chen Zhao, Le Wu, Pengyang Shao, **Kun Zhang**, Richang Hong, Meng Wang, Proceedings of the AAAI Conference on Artificial Intelligence.
+- ``AAAI2023`` Fair Representation Learning for Recommendation: A Mutual Information-Based Perspective. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25617)   
+Chen Zhao, Le Wu, Pengyang Shao, **Kun Zhang**, Richang Hong, Meng Wang.
 
-- ``MM2023`` [GoRec: A Generative Cold-start Recommendation Framework](https://dl.acm.org/doi/10.1145/3581783.3612238), Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Meng Wang, The 31st ACM International Conference on Multimedia.
+- ``MM2023`` GoRec: A Generative Cold-start Recommendation Framework. [\[Paper\]](https://dl.acm.org/doi/10.1145/3581783.3612238)   
+Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Meng Wang.
 
-- ``IEEE TKDE2022`` [A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation](https://dl.acm.org/doi/abs/10.1109/TKDE.2022.3145690), Le Wu, Xiangnan He, Xiang Wang, **Kun Zhang**, Meng Wang,  IEEE Transactions on Knowledge and Data Engineering.
+- ``IEEE TKDE2022`` A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1109/TKDE.2022.3145690)   
+Le Wu, Xiangnan He, Xiang Wang, **Kun Zhang**, Meng Wang.
 
-- ``SIGIR2022`` [A Review-aware Graph Contrastive Learning Framework for Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531927), Jie Shuai, **Kun Zhang**, Le Wu, Peijie Sun, Richang Hong, Meng Wang, Yong Li, The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+- ``SIGIR2022`` A Review-aware Graph Contrastive Learning Framework for Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3477495.3531927)    
+Jie Shuai, **Kun Zhang**, Le Wu, Peijie Sun, Richang Hong, Meng Wang, Yong Li.
 
-- ``IEEE TBD2022`` [Understanding the Users and Videos by Mining a Novel Danmu Dataset](https://ieeexplore.ieee.org/document/8887283), Guangyi Lv, **Kun Zhang**, Le Wu, Enhong Chen, Tong Xu, Qi Liu, Weidong He, IEEE Transactions on Big Data.
+- ``IEEE TBD2022`` Understanding the Users and Videos by Mining a Novel Danmu Dataset. [\[Paper\]](https://ieeexplore.ieee.org/document/8887283)    
+Guangyi Lv, **Kun Zhang**, Le Wu, Enhong Chen, Tong Xu, Qi Liu, Weidong He.
 
-- ``SIGIR2021`` [Privileged Graph Distillation for Cold Start Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462929), Shuai Wang, **Kun Zhang**, Le Wu, Haiping Ma, Richang Hong, Meng Wang, The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+- ``SIGIR2021`` Privileged Graph Distillation for Cold Start Recommendation. [\[Paper\]](https://dl.acm.org/doi/10.1145/3404835.3462929)   
+Shuai Wang, **Kun Zhang**\*, Le Wu, Haiping Ma, Richang Hong, Meng Wang.
 
-- ``AAAI2020`` [Revisiting graph based collaborative filtering A linear residual graph convolutional network approach](https://ojs.aaai.org/index.php/AAAI/article/view/5330), Lei Chen, Le Wu, Richang Hong, **Kun Zhang**, Meng Wang, Proceedings of the AAAI conference on artificial intelligence. 
+- ``AAAI2020`` Revisiting graph based collaborative filtering A linear residual graph convolutional network approach. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5330)   
+Lei Chen, Le Wu, Richang Hong, **Kun Zhang**, Meng Wang. 
 
-- ``SIGIR2020`` [Joint item recommendation and attribute inference An adaptive graph convolutional network approach](https://dl.acm.org/doi/abs/10.1145/3397271.3401144), Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Yanjie Fu, Meng Wang, Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval.
+- ``SIGIR2020`` Joint item recommendation and attribute inference An adaptive graph convolutional network approach. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401144)   
+Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Yanjie Fu, Meng Wang.
 
-- ``WWW2020`` [Dual learning for explainable recommendation Towards unifying user preference prediction and review generation](https://dl.acm.org/doi/10.1145/3366423.3380164), Peijie Sun, Le Wu, **Kun Zhang**, Yanjie Fu, Richang Hong, Meng Wang, Proceedings of The Web Conference.
+- ``WWW2020`` Dual learning for explainable recommendation Towards unifying user preference prediction and review generation. [\[Paper\]](https://dl.acm.org/doi/10.1145/3366423.3380164)   
+Peijie Sun, Le Wu, **Kun Zhang**, Yanjie Fu, Richang Hong, Meng Wang.
  
 ### Causal Reasoning
-- ``ACM TOIS2024`` **Average User-side Counterfactual Fairness for Collaborative Filtering**, Pengyang Shao, Le Wu\*, **Kun Zhang**, Defu Lian, Richang Hong, Yong Li, Meng Wang, ACM Transactions on Information Systems.
+- ``ACM TOIS2024`` Average User-side Counterfactual Fairness for Collaborative Filtering. [\[Paper\]]   
+Pengyang Shao, Le Wu\*, **Kun Zhang**, Defu Lian, Richang Hong, Yong Li, Meng Wang.
 
-- ``AI Open2024`` [Label-aware Debiased Causal Reasoning for Natural Language Inference](https://www.sciencedirect.com/science/article/pii/S2666651024000081), **Kun Zhang**\*, Dacao Zhang, Le Wu, Richang Hong, Ye Zhao, Meng Wang, AI Open.
+- ``AI Open2024`` Label-aware Debiased Causal Reasoning for Natural Language Inference. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S2666651024000081)  
+**Kun Zhang**\*, Dacao Zhang, Le Wu, Richang Hong, Ye Zhao, Meng Wang.
 
-- ``WWW2023`` [Improving Recommendation Fairness via Data Augmentation](https://dl.acm.org/doi/abs/10.1145/3543507.3583341), Lei Chen, Le Wu, **Kun Zhang**, Richang Hong, Defu Lian, Zhiqiang Zhang, Jun Zhou and Meng Wang, The web Conference.
+- ``WWW2023`` Improving Recommendation Fairness via Data Augmentation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3543507.3583341)   
+Lei Chen, Le Wu, **Kun Zhang**, Richang Hong, Defu Lian, Zhiqiang Zhang, Jun Zhou and Meng Wang.
 
-- ``计算机研究与发展2023`` [针对情境感知的自然语言推理的因果去偏方法](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330248), 张大操, **张琨**, 吴乐, 汪萌，计算机研究与发展
+- ``计算机研究与发展2023`` 针对情境感知的自然语言推理的因果去偏方法. [\[Paper\]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330248)   
+张大操, **张琨**\*, 吴乐, 汪萌
 
-- ``IEEE TAFFC2022`` [Causal Narrative Comprehension: A New Perspective for Emotion Cause Extraction](https://www.computer.org/csdl/journal/ta/2022/04/09893322/1GGLaQcseL6), Wei Cao; **Kun Zhang**; Shulan Ruan; Hanqing Tao; Sirui Zhao; Hao Wang; Qi Liu; Enhong Chen, IEEE Transactions on Affective Computing.
+- ``IEEE TAFFC2022`` Causal Narrative Comprehension: A New Perspective for Emotion Cause Extraction. [\[Paper\]](https://www.computer.org/csdl/journal/ta/2022/04/09893322/1GGLaQcseL6)   
+Wei Cao; **Kun Zhang**; Shulan Ruan; Hanqing Tao; Sirui Zhao; Hao Wang; Qi Liu; Enhong Chen.
