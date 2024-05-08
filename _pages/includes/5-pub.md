@@ -46,8 +46,8 @@ Shulan Ruan, **Kun Zhang**, Yijun Wang, Hanqing Tao, Weidong He, Guangyi Lv,Enho
 - ``AAAI2019`` DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/4734)   
 **Kun Zhang**, Guangyi Lv, Linyuan Wang, Le Wu, Enhong Chen, Fangzhao Wu, and Xing Xie. 
 
-- ``KDD2018`` XiaoIce Band A Melody and Arrangement Generation Framework for pop music. [\[Paper\]](https://dl.acm.org/doi/10.1145/3219819.3220105)   
-Hongyuan Zhu, Qi Liu, Nicholas Jing Yuan, Chuan Qin, Jiawei Li, **Kun Zhang**, Guang Zhou, Furu Wei, Yuanchun Xu, Enhong Chen. (<font color=Red><u>Best Student Paper Award of Research Track of KDD2018</U></font>)
+- ``KDD2018`` (<font color=Red><u>Best Student Paper Award of Research Track of KDD2018</U></font>) XiaoIce Band A Melody and Arrangement Generation Framework for pop music. [\[Paper\]](https://dl.acm.org/doi/10.1145/3219819.3220105)   
+Hongyuan Zhu, Qi Liu, Nicholas Jing Yuan, Chuan Qin, Jiawei Li, **Kun Zhang**, Guang Zhou, Furu Wei, Yuanchun Xu, Enhong Chen. 
 
 - ``ICDM2018`` Image-Enhanced Multi-Level Sentence Representation Net for Natural Language Inference. [\[Paper\]](https://ieeexplore.ieee.org/document/8594899)   
 **Kun Zhang**, Guangyi Lv, Le Wu, Enhong Chen, Qi Liu, and Han Wu.
