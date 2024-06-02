@@ -77,7 +77,7 @@ Chen Zhao, Le Wu, Pengyang Shao, **Kun Zhang**, Richang Hong, Meng Wang.
 - ``MM2023`` GoRec: A Generative Cold-start Recommendation Framework. [\[Paper\]](https://dl.acm.org/doi/10.1145/3581783.3612238)   
 Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Meng Wang.
 
-- ``IEEE TKDE2022`` A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1109/TKDE.2022.3145690)   
+- ``IEEE TKDE2022`` (🏆 <font color=Red><u>ESI Highly Cited Paper</U></font>) A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1109/TKDE.2022.3145690)   
 Le Wu, Xiangnan He, Xiang Wang, **Kun Zhang**, Meng Wang.
 
 - ``SIGIR2022`` A Review-aware Graph Contrastive Learning Framework for Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3477495.3531927)    
