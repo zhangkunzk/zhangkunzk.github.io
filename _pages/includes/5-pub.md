@@ -25,7 +25,7 @@ Kai Zhang, **Kun Zhang**, Mengdi Zhang, Hongke Zhao, Qi Liu,Wei Wu, Enhong Chen.
 - ``SIGIR2022`` Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3477495.3531984)   
 Kai Zhang, Qi Liu, Zhenya Huang, Mingyue Cheng, **Kun Zhang**, Mengdi Zhang, Wei Wu, Enhong Chen.
 
-- ``IEEE TMM2022`` Color Enhanced Cross Correlation Net for Image Sentiment Analysis. [\[Paper\]](https://ieeexplore.ieee.org/document/9566784)  
+- ``IEEE TMM2022``(🏆 <font color=Red><u>ESI Highly Cited Paper</U></font>) Color Enhanced Cross Correlation Net for Image Sentiment Analysis. [\[Paper\]](https://ieeexplore.ieee.org/document/9566784)  
 Shulan Ruan, **Kun Zhang**, Le Wu, Tong Xu, Qi Liu, Enhong Chen.
 
 - ``IEEE TSMC:S2021`` Multi-Level Image-Enhanced Sentence Representation Net for Natural Language Inference. [\[Paper\]](https://ieeexplore.ieee.org/document/8820068)   
