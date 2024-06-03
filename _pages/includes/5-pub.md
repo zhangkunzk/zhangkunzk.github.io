@@ -99,6 +99,10 @@ Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Yanjie Fu, Meng Wang.
 Peijie Sun, Le Wu, **Kun Zhang**, Yanjie Fu, Richang Hong, Meng Wang.
  
 ### Causal Reasoning
+
+- ``KDD 2024'' Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]]   
+Dacao Zhang, **Kun Zhang\***, Le Wu, Mi Tian, Richang Hong, Meng Wang.
+
 - ``ACM TOIS2024`` Average User-side Counterfactual Fairness for Collaborative Filtering. [\[Paper\]]   
 Pengyang Shao, Le Wu\*, **Kun Zhang**, Defu Lian, Richang Hong, Yong Li, Meng Wang.
 
