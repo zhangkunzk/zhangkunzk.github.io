@@ -9,6 +9,17 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### In the year of 2024:
 
+- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
+)      
+**Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang. 
+
+- ``KDD 2024`` Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
+), [\[slides\]](slides/kdd2024-PSCRF.pdf)     
+Dacao Zhang, **Kun Zhang\***, Le Wu, Mi Tian, Richang Hong, Meng Wang. 
+
+- ``计算机学报2024`` 从众性感知的因果去偏新闻推荐方法. [\[Paper\]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330248)   
+鲍纪敏, **张琨**, 吴乐, 洪日昌, 汪萌
+
 - ``ACM TOIS2024`` **Average User-side Counterfactual Fairness for Collaborative Filtering**,   
 Pengyang Shao, Le Wu\*, **Kun Zhang**, Defu Lian, Richang Hong, Yong Li, Meng Wang.
 
