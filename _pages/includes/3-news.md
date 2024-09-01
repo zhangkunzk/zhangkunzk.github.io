@@ -1,5 +1,7 @@
 # 🔥 News
 
+_2024-08-22_：🎉🎉 Our undergraduate team won **National Second Prize** in China Collegiate Computing Contest 2024-Big Data Challenge 
+
 _2024-06-12_：🎉🎉 One paper on <u>Debiased User Preference Modeling</u> got accepted by Chinese Journal of Computers (计算机学报)  
 and one paper on <u>Visual Question Answering</u> got accepted by Knowledge and Information Systems
 
