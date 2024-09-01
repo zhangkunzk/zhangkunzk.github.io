@@ -5,8 +5,7 @@ _2024-08-22_：🎉🎉 Our undergraduate team won **National Second Prize** in 
 _2024-06-12_：🎉🎉 One paper on <u>Debiased User Preference Modeling</u> got accepted by Chinese Journal of Computers (计算机学报)  
 and one paper on <u>Visual Question Answering</u> got accepted by Knowledge and Information Systems
 
-_2024-05-18_：🎉🎉 One paper on Cognitive Diagnosisi got accepted by KDD'2024  
-> _Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis_
+_2024-05-18_：🎉 One paper on Cognitive Diagnosis got accepted by KDD'2024  
 
 _2024-05-01_：🎉 One paper on Image Sentiment Analysis got recognized as ESI High Cited Paper 🏆  
 > [[TMM] Color Enhanced Cross Correlation Net for Image Sentiment Analysis](https://webofscience.clarivate.cn/wos/alldb/summary/23f5d230-c403-4b2e-9218-057b57ac2e1f-ee0ef1fb/relevance/1)
