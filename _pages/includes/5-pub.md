@@ -5,7 +5,10 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### Semantic Representation Learning
 - ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](https://zhangkunzk.github.io/)  
-Kun Zhang, Guangyi Lv, Le Wu, Richang Hong, Meng Wang
+**Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang
+
+- ``KIS2024`` Caption Matters: A New Perspective for Knowledge-based Visual Question Answering. [\[Paper\]](https://link.springer.com/article/10.1007/s10115-024-02166-8)  
+Bin Feng, Shulan Ruan, Likang Wu, Huijie Liu, Kai Zhang, Kun Zhang, Qi Liu, Enhong Chen 
 
 - ``WWWJ2024`` A relation-aware representation approach for the question matching system. [\[Paper\]](https://link.springer.com/article/10.1007/s11280-024-01255-6)   
 Yanmin Chen, Enhong Chen, **Kun Zhang**, Qi Liu, Ruijun Sun.
@@ -102,6 +105,7 @@ Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Yanjie Fu, Meng Wang.
 Peijie Sun, Le Wu, **Kun Zhang**, Yanjie Fu, Richang Hong, Meng Wang.
  
 ### Causal Reasoning
+
 
 - ``KDD 2024`` Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
 ), [\[slides\]](slides/kdd2024-PSCRF.pdf)     

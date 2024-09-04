@@ -9,8 +9,7 @@ and one paper on <u>Visual Question Answering</u> got accepted by Knowledge and 
 
 _2024-05-18_：🎉 One paper on Cognitive Diagnosis got accepted by KDD'2024  
 
-_2024-05-01_：🎉 One paper on Image Sentiment Analysis got recognized as ESI High Cited Paper 🏆  
-> [[TMM] Color Enhanced Cross Correlation Net for Image Sentiment Analysis](https://webofscience.clarivate.cn/wos/alldb/summary/23f5d230-c403-4b2e-9218-057b57ac2e1f-ee0ef1fb/relevance/1)
+_2024-05-01_：🎉 [One paper](https://webofscience.clarivate.cn/wos/alldb/summary/23f5d230-c403-4b2e-9218-057b57ac2e1f-ee0ef1fb/relevance/1) on Image Sentiment Analysis got recognized as ESI High Cited Paper 🏆  
 
 _2024-07-27_：🎉 One patent for multi-modal inference technology got granted
 

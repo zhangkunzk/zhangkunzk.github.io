@@ -13,14 +13,21 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 )      
 **Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang. 
 
+- ``FCS 2024`` Optimizing Low-Rank Adaptation with Decomposed Matrices and Adaptive Rank Allocation. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
+)  
+Dacao Zhang, Fan Yang, **Kun Zhang\***, Richang Hong
+
 - ``KDD 2024`` Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
 ), [\[slides\]](slides/kdd2024-PSCRF.pdf)     
 Dacao Zhang, **Kun Zhang\***, Le Wu, Mi Tian, Richang Hong, Meng Wang. 
 
-- ``计算机学报2024`` 从众性感知的因果去偏新闻推荐方法. [\[Paper\]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330248)   
-鲍纪敏, **张琨**, 吴乐, 洪日昌, 汪萌
+- ``KIS2024`` Caption Matters: A New Perspective for Knowledge-based Visual Question Answering. [\[Paper\]](https://link.springer.com/article/10.1007/s10115-024-02166-8)  
+Bin Feng, Shulan Ruan, Likang Wu, Huijie Liu, Kai Zhang, **Kun Zhang**, Qi Liu, Enhong Chen 
 
-- ``ACM TOIS2024`` **Average User-side Counterfactual Fairness for Collaborative Filtering**,   
+- ``计算机学报2024`` 从众性感知的因果去偏新闻推荐方法. [\[Paper\]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330248)   
+鲍纪敏, **张琨\***, 吴乐, 洪日昌, 汪萌
+
+- ``ACM TOIS2024`` Average User-side Counterfactual Fairness for Collaborative Filtering. [\[Paper\]](https://dl.acm.org/doi/10.1145/3656639)   
 Pengyang Shao, Le Wu\*, **Kun Zhang**, Defu Lian, Richang Hong, Yong Li, Meng Wang.
 
 - ``AI Open2024`` Label-aware Debiased Causal Reasoning for Natural Language Inference. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S2666651024000081),   
