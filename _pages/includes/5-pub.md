@@ -4,6 +4,9 @@
 My full paper list can also be found at [Google Scholar](https://scholar.google.com/citations?user=40coXH4AAAAJ).
 
 ### Semantic Representation Learning
+- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](https://zhangkunzk.github.io/)  
+Kun Zhang, Guangyi Lv, Le Wu, Richang Hong, Meng Wang
+
 - ``WWWJ2024`` A relation-aware representation approach for the question matching system. [\[Paper\]](https://link.springer.com/article/10.1007/s11280-024-01255-6)   
 Yanmin Chen, Enhong Chen, **Kun Zhang**, Qi Liu, Ruijun Sun.
 
