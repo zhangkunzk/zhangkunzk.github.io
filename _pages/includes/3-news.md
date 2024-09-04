@@ -11,11 +11,10 @@ _2024-05-18_：🎉 One paper on Cognitive Diagnosis got accepted by KDD'2024
 
 _2024-05-01_：🎉 [One paper](https://webofscience.clarivate.cn/wos/alldb/summary/23f5d230-c403-4b2e-9218-057b57ac2e1f-ee0ef1fb/relevance/1) on Image Sentiment Analysis got recognized as ESI High Cited Paper 🏆  
 
-_2024-07-27_：🎉 One patent for multi-modal inference technology got granted
+_2024-07-27_：One patent for multi-modal inference technology got granted
 
-_2024-04-19_：🎉 One patent for sentence semantic matching technology got granted
+_2024-04-19_：One patent for sentence semantic matching technology got granted
 
-_2024-03-30_： One paper on <u>Counterfactual Fairness</u> got accepted by ACM TOIS
+_2024-03-30_：One paper on <u>Counterfactual Fairness</u> got accepted by ACM TOIS
 
 _2024-02-26_：One paper on <u>causal-based debiasing</u> got accepted by AI Open. 
-> _Average User-side Counterfactual Fairness for Collaborative Filtering_
