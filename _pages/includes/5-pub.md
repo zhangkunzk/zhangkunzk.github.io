@@ -7,6 +7,9 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](https://zhangkunzk.github.io/)  
 **Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang
 
+- ``FCS 2024`` Optimizing Low-Rank Adaptation with Decomposed Matrices and Adaptive Rank Allocation. [\[Paper\]](https://zhangkunzk.github.io/)  
+Dacao Zhang, Fan Yang, **Kun Zhang\***, Richang Hong
+
 - ``KIS2024`` Caption Matters: A New Perspective for Knowledge-based Visual Question Answering. [\[Paper\]](https://link.springer.com/article/10.1007/s10115-024-02166-8)  
 Bin Feng, Shulan Ruan, Likang Wu, Huijie Liu, Kai Zhang, Kun Zhang, Qi Liu, Enhong Chen 
 
