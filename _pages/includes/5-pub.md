@@ -4,7 +4,7 @@
 My full paper list can also be found at [Google Scholar](https://scholar.google.com/citations?user=40coXH4AAAAJ).
 
 ### Semantic Representation Learning
-- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](https://zhangkunzk.github.io/)  
+- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](https://ieeexplore.ieee.org/document/10705792)  
 **Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang
 
 - ``FCS 2024`` Optimizing Low-Rank Adaptation with Decomposed Matrices and Adaptive Rank Allocation. [\[Paper\]](https://zhangkunzk.github.io/)  
