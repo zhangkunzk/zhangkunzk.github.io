@@ -22,7 +22,7 @@ redirect_from:
 {% include_relative includes/4-high.md %}
 
 <span class='anchor' id='-pub'></span>
-{% include_relative includes/5-pub.md %}
+{% include_relative includes/5-pub-year.md %}
 
 <span class='anchor' id='-honor'></span>
 {% include_relative includes/6-others.md %}

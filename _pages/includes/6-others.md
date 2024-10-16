@@ -1,6 +1,8 @@
 # 💬 Invited Talk
 
-- *2023-11-24*: Give talks on "**Causally Inspired Debiased model learning and inference**" ath the Workshop at SMP2023. 
+- *2024-10-13*: Give talks on "**Label-aware Debiased Causal Reasoning for Natural Language Inference**"  at SMP2024. 
+
+- *2023-11-24*: Give talks on "**Causally Inspired Debiased model learning and inference**" at the Workshop at SMP2023. 
 
 - *2023-05-19*: Given talks on "**Text Enriched Personalized User Modeling and Explanable Recommendation**" at CCF YEF2023.
 

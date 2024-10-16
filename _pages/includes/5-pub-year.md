@@ -9,22 +9,19 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### In the year of 2024:
 
-- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
-)      
+- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](http://arxiv.org/abs/2406.03064)        
 **Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang. 
 
-- ``FCS 2024`` Optimizing Low-Rank Adaptation with Decomposed Matrices and Adaptive Rank Allocation. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
-)  
+- ``FCS 2024`` Optimizing Low-Rank Adaptation with Decomposed Matrices and Adaptive Rank Allocation. [\[Paper\]](http://arxiv.org/abs/2406.03064)    
 Dacao Zhang, Fan Yang, **Kun Zhang\***, Richang Hong
 
-- ``KDD 2024`` Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF
-), [\[slides\]](slides/kdd2024-PSCRF.pdf)     
+- ``KDD 2024`` Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF), [\[slides\]](slides/kdd2024-PSCRF.pdf)     
 Dacao Zhang, **Kun Zhang\***, Le Wu, Mi Tian, Richang Hong, Meng Wang. 
 
 - ``KIS2024`` Caption Matters: A New Perspective for Knowledge-based Visual Question Answering. [\[Paper\]](https://link.springer.com/article/10.1007/s10115-024-02166-8)  
 Bin Feng, Shulan Ruan, Likang Wu, Huijie Liu, Kai Zhang, **Kun Zhang**, Qi Liu, Enhong Chen 
 
-- ``计算机学报2024`` 从众性感知的因果去偏新闻推荐方法. [\[Paper\]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330248)   
+- ``计算机学报2024`` 从众性感知的因果去偏新闻推荐方法. [\[Paper\]](http://cjc.ict.ac.cn/online/onlinepaper/bjm-2024928105951.pdf)   
 鲍纪敏, **张琨\***, 吴乐, 洪日昌, 汪萌
 
 - ``ACM TOIS2024`` Average User-side Counterfactual Fairness for Collaborative Filtering. [\[Paper\]](https://dl.acm.org/doi/10.1145/3656639)   
@@ -81,13 +78,13 @@ Hanqing Tao, Guanqi Zhu, Enhong Chen, Shiwei Tong, **Kun Zhang**, Tong Xu, Qi Li
 - ``IEEE TNNLS2022`` LadRa-Net: Locally-Aware Dynamic Re-read Attention Net for Sentence Semantic Matching. [\[Paper\]](https://ieeexplore.ieee.org/document/9516694)   
 **Kun Zhang**, Guangyi Lv,Le Wu, Enhong Chen, Qi Liu, Meng Wang.
 
-- ``IEEE TKDE2022`` A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1109/TKDE.2022.3145690)   
+- ``IEEE TKDE2022``(🏆 <font color=Red><u>ESI Highly Cited Paper</U></font>) A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation. [\[Paper\]](https://dl.acm.org/doi/abs/10.1109/TKDE.2022.3145690)   
 Le Wu, Xiangnan He, Xiang Wang, **Kun Zhang**, Meng Wang.
 
 - ``IEEE TAFFC2022`` Causal Narrative Comprehension: A New Perspective for Emotion Cause Extraction. [\[Paper\]](https://www.computer.org/csdl/journal/ta/2022/04/09893322/1GGLaQcseL6)   
 Wei Cao; **Kun Zhang**; Shulan Ruan; Hanqing Tao; Sirui Zhao; Hao Wang; Qi Liu; Enhong Chen.
 
-- ``IEEE TMM2022`` Color Enhanced Cross Correlation Net for Image Sentiment Analysis. [\[Paper\]](https://ieeexplore.ieee.org/document/9566784)   
+- ``IEEE TMM2022``(🏆 <font color=Red><u>ESI Highly Cited Paper</U></font>) Color Enhanced Cross Correlation Net for Image Sentiment Analysis. [\[Paper\]](https://ieeexplore.ieee.org/document/9566784)   
 Shulan Ruan, **Kun Zhang**, Le Wu, Tong Xu, Qi Liu, Enhong Chen.
 
 - ``IEEE TBD2022`` Understanding the Users and Videos by Mining a Novel Danmu Dataset. [\[Paper\]](https://ieeexplore.ieee.org/document/8887283)  
