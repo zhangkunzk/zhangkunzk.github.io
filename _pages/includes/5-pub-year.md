@@ -12,7 +12,6 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``NeurIPS 2024 Workshop on M3L`` Increasing Fairness via Combination with Learning Guarantees. [\[Paper\]](http://arxiv.org/abs/2406.03064)        
 Yijun Bian, **Kun Zhang**. 
 
-
 - ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](http://arxiv.org/abs/2406.03064)        
 **Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang. 
 
