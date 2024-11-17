@@ -5,20 +5,24 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### Representative Papers
 
+<!-- ### In the year of 2025:
 
+- ``KDD 2025`` Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education  
+Pengyang Shao, Yonghui Yang, Chen Gao, Lei Chen, **Kun Zhang**, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang. [\[Paper\]](http://arxiv.org/abs/2406.03064) -->
 
 ### In the year of 2024:
 
-- ``NeurIPS 2024 Workshop on M3L`` Increasing Fairness via Combination with Learning Guarantees. [\[Paper\]](http://arxiv.org/abs/2406.03064)        
+- ``NeurIPS 2024 Workshop on M3L`` Increasing Fairness via Combination with Learning Guarantees. [\[Paper\]](https://zhangkunzk.github.io/)        
 Yijun Bian, **Kun Zhang**. 
 
-- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](http://arxiv.org/abs/2406.03064)        
+- ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10705792/)        
 **Kun Zhang\***, Guangyi Lv, Le Wu, Richang Hong, Meng Wang. 
 
-- ``FCS 2024`` Optimizing Low-Rank Adaptation with Decomposed Matrices and Adaptive Rank Allocation. [\[Paper\]](http://arxiv.org/abs/2406.03064)    
+- ``FCS 2024`` Optimizing Low-Rank Adaptation with Decomposed Matrices and Adaptive Rank Allocation. [\[Paper\]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40317-w)    
 Dacao Zhang, Fan Yang, **Kun Zhang\***, Richang Hong
 
-- ``KDD 2024`` Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]](http://arxiv.org/abs/2406.03064), [\[code\]](https://github.com/NLPfreshman0/PSCRF), [\[slides\]](slides/kdd2024-PSCRF.pdf)     
+- ``KDD 2024`` Path-Specific Causal Reasoning for Fairness-aware Cognitive Diagnosis. [\[Paper\]](https://dl.acm.org/doi/10.1145/3637528.3672049), [\[code\]](https://github.com/NLPfreshman0/PSCRF
+), [\[slides\]](slides/kdd2024-PSCRF.pdf)          
 Dacao Zhang, **Kun Zhang\***, Le Wu, Mi Tian, Richang Hong, Meng Wang. 
 
 - ``KIS2024`` Caption Matters: A New Perspective for Knowledge-based Visual Question Answering. [\[Paper\]](https://link.springer.com/article/10.1007/s10115-024-02166-8)  
