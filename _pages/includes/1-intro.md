@@ -4,4 +4,6 @@ I have been selected for the 2022 MSRA StarTrack Scholar,  won the Chinese Acade
 
 My research interests include Semantic Representation, Large Language Models, Causal Reasoning and Debiased Learning, Recommender System. I have published 30+ papers on SIGIR, ACL, WWW, AAAI, etc. If you are seeking any form of **academic cooperation**, please feel free to email me.
 
+[<font color=Red><u>【Opening Position】I am looking forward Ph.D. students for Large Language Models research. </u></font>](mailto:zhang1028kun@gmail.com)
+
 [<font color=Red><u>I am also looking forward self-motivated students to join us. If you are interested in my research, feel free to contact me.</u></font>](mailto:zhang1028kun@gmail.com)
