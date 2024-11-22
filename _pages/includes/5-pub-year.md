@@ -72,7 +72,7 @@ Chen Zhao, Le Wu, Pengyang Shao, **Kun Zhang**, Richang Hong, Meng Wang.
 Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Meng Wang.
 
 - ``计算机研究与发展2023`` 针对情境感知的自然语言推理的因果去偏方法. [\[Paper\]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330248)   
-张大操, **张琨**, 吴乐, 汪萌
+张大操, **张琨\***, 吴乐, 汪萌
 
 
 ### In the year of 2022:
@@ -118,7 +118,7 @@ Jie Shuai, **Kun Zhang**, Le Wu, Peijie Sun, Richang Hong, Meng Wang, Yong Li.
 Shulan Ruan, Yong Zhang, **Kun Zhang**, Yanbo Fan, Fan Tang, Qi Liu, Enhong Chen.
 
 - ``SIGIR2021`` Privileged Graph Distillation for Cold Start Recommendation. [\[Paper\]](https://dl.acm.org/doi/10.1145/3404835.3462929)   
-Shuai Wang, **Kun Zhang**, Le Wu, Haiping Ma, Richang Hong, Meng Wang.
+Shuai Wang, **Kun Zhang\***, Le Wu, Haiping Ma, Richang Hong, Meng Wang.
 
 - ``计算机学报2021`` 图像信息对句子语义理解与表示的有效性验证与分析. [\[Paper\]](http://cjc.ict.ac.cn/online/onlinepaper/zk-202128100039.pdf)   
 **张琨**，吕广奕，吴乐，刘淇，陈恩红.
