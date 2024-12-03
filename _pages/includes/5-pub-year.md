@@ -12,6 +12,9 @@ Pengyang Shao, Yonghui Yang, Chen Gao, Lei Chen, **Kun Zhang**, Chenyi Zhuang, L
 
 ### In the year of 2024:
 
+<!-- - ``FCS 2024`` Breaking Student-Concept Sparsity Barrier for Cognitive Diagnosis. [\[Paper\]](https://zhangkunzk.github.io/)        
+Pengyang Shao, **Kun Zhang\***, Chen Gao, Lei Chen, Miaomiao Cai, Le Wu, Yong Li, Meng Wang  -->
+
 - ``NeurIPS 2024 Workshop on M3L`` Increasing Fairness via Combination with Learning Guarantees. [\[Paper\]](papers/Increasing_Fairness.pdf)        
 Yijun Bian, **Kun Zhang**. 
 
