@@ -5,7 +5,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### Representative Papers
 
- ### In the year of 2025:
+### In the year of 2025:
 
 - ``KDD 2025`` Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. [\[Paper\]](http://arxiv.org/abs/2406.03064)     
 Pengyang Shao, Yonghui Yang, Chen Gao, Lei Chen, **Kun Zhang**, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang. 
