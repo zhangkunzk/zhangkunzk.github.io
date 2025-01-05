@@ -5,15 +5,15 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### Representative Papers
 
-<!-- ### In the year of 2025:
+ ### In the year of 2025:
 
-- ``KDD 2025`` Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education  
-Pengyang Shao, Yonghui Yang, Chen Gao, Lei Chen, **Kun Zhang**, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang. [\[Paper\]](http://arxiv.org/abs/2406.03064) -->
+- ``KDD 2025`` Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. [\[Paper\]](http://arxiv.org/abs/2406.03064)     
+Pengyang Shao, Yonghui Yang, Chen Gao, Lei Chen, **Kun Zhang**, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang. 
+
+- ``FCS 2025`` Breaking Student-Concept Sparsity Barrier for Cognitive Diagnosis. [\[Paper\]](https://zhangkunzk.github.io/)        
+Pengyang Shao, **Kun Zhang\***, Chen Gao, Lei Chen, Miaomiao Cai, Le Wu, Yong Li, Meng Wang
 
 ### In the year of 2024:
-
-<!-- - ``FCS 2024`` Breaking Student-Concept Sparsity Barrier for Cognitive Diagnosis. [\[Paper\]](https://zhangkunzk.github.io/)        
-Pengyang Shao, **Kun Zhang\***, Chen Gao, Lei Chen, Miaomiao Cai, Le Wu, Yong Li, Meng Wang  -->
 
 - ``NeurIPS 2024 Workshop on M3L`` Increasing Fairness via Combination with Learning Guarantees. [\[Paper\]](papers/Increasing_Fairness.pdf)        
 Yijun Bian, **Kun Zhang**. 
