@@ -6,6 +6,7 @@ _2024-11-05_：🎉🎉 Two of my master's students got Natural Scholarship of 2
 
 _2024-09-05_：🎉 One paper on <u>Parameter-Efficient Fine-Tuning (PEFT)</u> got accepted by Frontiers of Computer Science (FCS)
 
+<!--
 _2024-09-01_：🎉 One paper on <u>Contrastive Representation Learning</u> got accepted by IEEE Transactions on Computational Social Systems (IEEE TCSS)  
 
 _2024-08-22_： Our undergraduate team won **National Second Prize** in China Collegiate Computing Contest 2024-Big Data Challenge 
@@ -19,8 +20,9 @@ _2024-05-01_：[One paper](https://webofscience.clarivate.cn/wos/alldb/summary/2
 
 _2024-04-27_：Two patent for multi-modal inference technology got granted
 
-<!--_2024-04-19_：One patent for sentence semantic matching technology got granted-->
+_2024-04-19_：One patent for sentence semantic matching technology got granted
 
 _2024-03-30_：One paper on <u>Counterfactual Fairness</u> got accepted by ACM TOIS
 
 _2024-02-26_：One paper on <u>causal-based debiasing</u> got accepted by AI Open. 
+-->
