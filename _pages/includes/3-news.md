@@ -1,5 +1,7 @@
 # 🔥 News
 
+<!-- _2025-03-16_：🎉🎉 One paper on <u>Programmatic High-Quality Data Labeling</u> got accepted by ACM Transactions on Information Systems -->
+
 _2024-12-03_：🎉🎉 Two paper on <u>Debiased User Preference Modeling</u> got accepted by Frontiers of Computer Science (FCS) and KDD'2025
 
 _2024-11-05_：🎉🎉 Two of my master's students got Natural Scholarship of 2024
