@@ -13,8 +13,8 @@ Shulan Ruan, Huijie Liu, Zhao Chen, Bin Feng, **Kun Zhang**, Caleb Chen Cao, Enh
 - ``KDD 2025`` Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. [\[Paper\]](http://arxiv.org/abs/2406.03064)     
 Pengyang Shao, Yonghui Yang, Chen Gao, Lei Chen, **Kun Zhang**, Chenyi Zhuang, Le Wu, Yong Li, Meng Wang. 
 
-- ``FCS 2025`` Breaking Student-Concept Sparsity Barrier for Cognitive Diagnosis. [\[Paper\]](https://zhangkunzk.github.io/)        
-Pengyang Shao, **Kun Zhang\***, Chen Gao, Lei Chen, Miaomiao Cai, Le Wu, Yong Li, Meng Wang
+- ``FCS 2025`` Breaking Student-Concept Sparsity Barrier for Cognitive Diagnosis. [\[Paper\]](https://link.springer.com/article/10.1007/s11704-025-40591-2)        
+Pengyang Shao, **Kun Zhang\***, Chen Gao\*, Lei Chen, Miaomiao Cai, Le Wu, Yong Li, Meng Wang
 
 ### In the year of 2024:
 
