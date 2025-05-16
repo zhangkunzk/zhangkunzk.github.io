@@ -23,7 +23,7 @@ Pengyang Shao, **Kun Zhang\***, Chen Gao\*, Lei Chen, Miaomiao Cai, Le Wu, Yong 
 
 ### In the year of 2024:
 
-- ``NeurIPS 2024 Workshop on M3L`` Increasing Fairness via Combination with Learning Guarantees. [\[Paper\]](papers/Increasing_Fairness.pdf)        
+- ``NeurIPS 2024 Workshop`` Increasing Fairness via Combination with Learning Guarantees. [\[Paper\]](papers/Increasing_Fairness.pdf)        
 Yijun Bian, **Kun Zhang**. 
 
 - ``IEEE TCSS2024`` EMCRL: EM-enhanced Negative Sampling Strategy for Contrastive Representation Learning. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10705792/)        
