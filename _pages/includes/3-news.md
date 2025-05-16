@@ -1,14 +1,18 @@
 # 🔥 News
 
-<!-- _2025-03-16_：🎉🎉 One paper on <u>Programmatic High-Quality Data Labeling</u> got accepted by ACM Transactions on Information Systems -->
+_2025-05-16_：🎉🎉 One paper on <u>MoE-based LoRA for LLM multi-task learning</u> got accepted by ACL2025
 
-_2024-12-03_：🎉🎉 Two paper on <u>Debiased User Preference Modeling</u> got accepted by Frontiers of Computer Science (FCS) and KDD'2025
+_2024-03-20_：🎉🎉 Two of my master's students are honored as Outstanding Graduates in Anhui Province
 
-_2024-11-05_：🎉🎉 Two of my master's students got Natural Scholarship of 2024
+_2025-03-16_：🎉 One paper on <u>Programmatic High-Quality Data Labeling</u> got accepted by ACM Transactions on Information Systems
+
+_2024-12-03_：🎉 Two paper on <u>Debiased User Preference Modeling</u> got accepted by Frontiers of Computer Science (FCS) and KDD'2025
+
+<!--_2024-11-05_：🎉 Two of my master's students got Natural Scholarship of 2024
 
 _2024-09-05_：🎉 One paper on <u>Parameter-Efficient Fine-Tuning (PEFT)</u> got accepted by Frontiers of Computer Science (FCS)
 
-<!--
+
 _2024-09-01_：🎉 One paper on <u>Contrastive Representation Learning</u> got accepted by IEEE Transactions on Computational Social Systems (IEEE TCSS)  
 
 _2024-08-22_： Our undergraduate team won **National Second Prize** in China Collegiate Computing Contest 2024-Big Data Challenge 
