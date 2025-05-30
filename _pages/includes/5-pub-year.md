@@ -7,10 +7,10 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### In the year of 2025:
 
-<!--
-- ``ACL 2025`` MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning. [\[Paper\]](https://zhangkunzk.github.io/)    
+
+- ``ACL 2025 Findings`` MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning. [\[Paper\]](https://arxiv.org/abs/2505.22694)    
 Dacao Zhang, **Kun Zhang\***, Shimao Chu, Le Wu, Xin Li, Si Wei
--->
+
 
 - ``ACM TOIS 2025`` CPWS: Confident Programmatic Weak Supervision for High-Quality Data Labeling. [\[Paper\]](https://dl.acm.org/doi/10.1145/3725730)    
 Shulan Ruan, Huijie Liu, Zhao Chen, Bin Feng, **Kun Zhang**, Caleb Chen Cao, Enhong Chen, Lei Chen
