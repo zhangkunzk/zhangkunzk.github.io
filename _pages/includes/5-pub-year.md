@@ -8,7 +8,8 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 ### In the year of 2025:
 
 
-- ``ACL 2025 Findings`` MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning. [\[Paper\]](https://arxiv.org/abs/2505.22694)    
+- ``ACL 2025 Findings`` MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning. [\[Paper\]](https://arxiv.org/abs/2505.22694), [\[code\]](https://github.com/zhangkunzk/MoRE
+)   
 Dacao Zhang, **Kun Zhang\***, Shimao Chu, Le Wu, Xin Li, Si Wei
 
 
