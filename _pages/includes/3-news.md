@@ -1,6 +1,6 @@
 # 🔥 News
 
-_2025-06-17_：🎉🎉 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv.
+_2025-06-17_：🎉🎉 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
 
 _2025-05-16_：🎉🎉 One paper on <u>MoE-based LoRA for LLM multi-task learning</u> got accepted by ACL2025
 
