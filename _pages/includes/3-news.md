@@ -1,5 +1,7 @@
 # 🔥 News
 
+_2025-06-17_：🎉🎉 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv.
+
 _2025-05-16_：🎉🎉 One paper on <u>MoE-based LoRA for LLM multi-task learning</u> got accepted by ACL2025
 
 _2024-03-20_：🎉🎉 Two of my master's students are honored as Outstanding Graduates in Anhui Province
