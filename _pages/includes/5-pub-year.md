@@ -10,6 +10,9 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``Survey`` Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions. [\[Paper\]](https://arxiv.org/abs/2506.11111), [\[Project\]](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers)   
 **Kun Zhang**, Le Wu, Kui Yu, Guangyi Lv, Dacao Zhang
 
+- ``CCL 2025`` EDGE: Enhanced Debiased Gradient Extraction for Robust Fine‑tuning. [\[Paper\]](https://zhangkunzk.github.io/)      
+Jinglong Li, **Kun Zhang\***, Chenyu Zou, Wei Shi, Xin Li, Si Wei
+
 - ``ACL 2025 Findings`` MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning. [\[Paper\]](https://arxiv.org/abs/2505.22694), [\[Code\]](https://github.com/zhangkunzk/MoRE)   
 Dacao Zhang, **Kun Zhang\***, Shimao Chu, Le Wu, Xin Li, Si Wei
 
