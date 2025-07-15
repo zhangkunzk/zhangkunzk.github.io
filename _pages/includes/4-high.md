@@ -1,27 +1,28 @@
 # 📝 Highlighted Research
 
-## Sentence Semantic Representation
+## Large Language Model Tuning
 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
 <div class="badge">
-AAAI 2019
+ACL 2025 Findings
 </div>
-<img src='images/AAAI2019.png' alt="sym" width="100%">
+<img src='images/ACL2025.jpg' alt="sym" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[DRr-Net: Dynamic Re-Read Network for Sentence Semantic Matching](https://ojs.aaai.org/index.php/AAAI/article/view/4734)  
+[MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning](https://arxiv.org/abs/2505.22694)  
 
+Dacao Zhang, **Kun Zhang**\*, Shimao Chu, Le Wu, Xin Li, Si Wei
 
+- This work focuses on the multi-task fine-tuning of LLMs and develops a novel Mixture of Low-Rank Experts (MoRE) for efficient LLM tuning. 
+- MoRE innovatively treats the rank $r$ as the expert and realizes MoE-based tuning in one LoRA module, which reduces the computation cost and ensures the LLM capability across various downstream tasks.
 
-**Kun Zhang**, Guangyi Lv, Linyuan Wang, Le Wu, Enhong Chen, Fangzhao Wu, and Xing Xie
-
-- This work draws inspiration from cognitive psychology and designs dynamic attention mechanism (DRr-Net) to realize the focusing and dynamic adjustment of attention, improving the quality of generated sentence representations.
-- This work is also extend to IEEE TNNLS2022.
 </div>
 </div>
+
+## Sentence Semantic Representation
 
 <div class='paper-box'>
 <div class='paper-box-image'>
