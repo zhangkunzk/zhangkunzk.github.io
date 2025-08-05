@@ -93,7 +93,8 @@ Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, **Kun Zhang**, Richang Hong, Meng Wang
 
 ### In the year of 2022:
 
-- ``ACM TOMM2022`` PEDM: A Multi-task Learning Model for Persona-aware Emoji-embedded Dialogue Generation. [\[Paper\]](https://dl.acm.org/doi/10.1145/3571819), Sirui Zhao, Hongyu Jiang, Hanqing Tao, Rui Zha, **Kun Zhang**, Tong Xu, Enhong Chen.
+- ``ACM TOMM2022`` PEDM: A Multi-task Learning Model for Persona-aware Emoji-embedded Dialogue Generation. [\[Paper\]](https://dl.acm.org/doi/10.1145/3571819)   
+ Sirui Zhao, Hongyu Jiang, Hanqing Tao, Rui Zha, **Kun Zhang**, Tong Xu, Enhong Chen.
 
 - ``IEEE TKDE2022`` Learning from Ideography and Labels: A Schema-aware Radical-guided Associative Model for Chinese Text Classification. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9770424)   
 Hanqing Tao, Guanqi Zhu, Enhong Chen, Shiwei Tong, **Kun Zhang**, Tong Xu, Qi Liu, Yew-Soon Ong.
