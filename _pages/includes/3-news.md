@@ -1,10 +1,12 @@
 # 🔥 News
 
-_2025-06-17_：🎉🎉 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
+_2025-06-17_：📌 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
+
+_2025-08-09_：🎉🎉 One paper on <u>PEFT for Transformers</u> got accepted by Frontiers of Computer Science (FCS) and one paper on  <u>Student Cognitive Diagnosis</u> got accepted by CIKM2025. 
 
 _2025-05-16_：🎉🎉 One paper on <u>MoE-based LoRA for LLM multi-task learning</u> got accepted by ACL2025
 
-_2024-03-20_：🎉🎉 Two of my master's students are honored as Outstanding Graduates in Anhui Province
+_2025-03-20_：🎉🎉 Two of my master's students are honored as Outstanding Graduates in Anhui Province
 
 _2025-03-16_：🎉 One paper on <u>Programmatic High-Quality Data Labeling</u> got accepted by ACM Transactions on Information Systems
 
