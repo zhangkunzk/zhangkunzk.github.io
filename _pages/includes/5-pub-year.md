@@ -10,6 +10,14 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``Survey`` Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions. [\[Paper\]](https://arxiv.org/abs/2506.11111), [\[Project\]](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers)   
 **Kun Zhang**, Le Wu, Kui Yu, Guangyi Lv, Dacao Zhang
 
+<!-- 
+- ``FCS 2025`` Low-Rank Spectral Adapter for Parameter-Efficient Fine-tuning of Transformer. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
+**Kun Zhang\***, Guangyi Lv, Yubin Huangfu, Minglong Xue, Richang Hong, Jianping Fan, Xin Li, Si Wei
+
+- ``CIKM 2025`` Selective Mixup for Debiasing Question Selection in Computerized Adaptive Testing. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
+Mi Tian, Kun Zhang, Fei Liu, Jinglong Li, Yuxin Liao, Chenxi Bai, Zhengtao Tan, Le Wu, Richang Hong  
+-->
+
 - ``CCL 2025`` EDGE: Enhanced Debiased Gradient Extraction for Robust Fine‑tuning. [\[Paper\]](https://zhangkunzk.github.io/)      
 Jinglong Li, **Kun Zhang\***, Chenyu Zou, Wei Shi, Xin Li, Si Wei
 
