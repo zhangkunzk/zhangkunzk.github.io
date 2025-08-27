@@ -18,7 +18,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 Mi Tian, Kun Zhang, Fei Liu, Jinglong Li, Yuxin Liao, Chenxi Bai, Zhengtao Tan, Le Wu, Richang Hong  
 -->
 
-- ``CCL 2025`` EDGE: Enhanced Debiased Gradient Extraction for Robust Fine‑tuning. [\[Paper\]](https://zhangkunzk.github.io/)      
+- ``CCL 2025``(📜<font color=Red><u>Featured Paper</U></font>) EDGE: Enhanced Debiased Gradient Extraction for Robust Fine‑tuning. [\[Paper\]](https://zhangkunzk.github.io/)      
 Jinglong Li, **Kun Zhang\***, Chenyu Zou, Wei Shi, Xin Li, Si Wei
 
 - ``ACL 2025 Findings`` MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning. [\[Paper\]](https://aclanthology.org/2025.findings-acl.68/#), [\[Code\]](https://github.com/zhangkunzk/MoRE)   
