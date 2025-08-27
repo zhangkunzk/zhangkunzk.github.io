@@ -2,13 +2,15 @@
 
 _2025-06-17_：📌 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
 
-_2025-08-13_：🎉🎉 One paper on <u>Debiased PEFT method of LLMs</u> got accepted by CCL 2025 and got selected as the Featured Paper award. 
+_2025-08-27_：🏆 Congratulations to freshmen of our group for winning the **national second prize** in the Big Data Chalenge of China Collegiate Computing Contest. 
+
+_2025-08-13_：🎉🎉 One paper on <u>Debiased PEFT method of LLMs</u> got accepted by CCL 2025 and got selected as the **Featured Paper award**. 
 
 _2025-08-09_：🎉🎉 One paper on <u>PEFT for Transformers</u> got accepted by Frontiers of Computer Science (FCS) and one paper on  <u>Student Cognitive Diagnosis</u> got accepted by CIKM2025. 
 
 _2025-05-16_：🎉🎉 One paper on <u>MoE-based LoRA for LLM multi-task learning</u> got accepted by ACL2025
 
-_2025-03-20_：🎉 Two of my master's students are honored as Outstanding Graduates in Anhui Province
+_2025-03-20_：🎉 Two of my master's students are honored as **Outstanding Graduates in Anhui Province**
 
 _2025-03-16_：🎉 One paper on <u>Programmatic High-Quality Data Labeling</u> got accepted by ACM Transactions on Information Systems
 

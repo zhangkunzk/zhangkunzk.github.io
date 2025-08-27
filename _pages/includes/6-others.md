@@ -12,6 +12,8 @@
 
 # 🥇 Honors and Awards
 
+- *2025.08*  **National Second Prize** in China Collegiate Computing Contest 2025-Big Data Challenge
+- *2025.08*  **Featured Paper award** of CCL 2025 on on <u>Debiased PEFT method of LLMs</u>  
 - *2024.08*  **National Second Prize** in China Collegiate Computing Contest 2024-Big Data Challenge 
 - *2023.11*  **National Third Prize** in CCIR CUP 2023
 - *2023.08*  **National Third Prize** in China Collegiate Computing Contest 2023-Big Data Challenge 
