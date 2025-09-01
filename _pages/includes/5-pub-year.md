@@ -11,6 +11,11 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 **Kun Zhang**, Le Wu, Kui Yu, Guangyi Lv, Dacao Zhang
 
 <!-- 
+
+- ``IEEE TNNLS 2025`` Syntax-oriented Shortcut: A Syntax Level Perturbing Algorithm for Preventing Text Data from Being Learned. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
+Bo Li, **Kun Zhang\***, Richang Hong  
+
+
 - ``FCS 2025`` Low-Rank Spectral Adapter for Parameter-Efficient Fine-tuning of Transformer. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
 **Kun Zhang\***, Guangyi Lv, Yubin Huangfu, Minglong Xue, Richang Hong, Jianping Fan, Xin Li, Si Wei
 
