@@ -2,12 +2,7 @@
 
 _2025-06-17_：📌 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
 
-
-<!-- 
-
-_2025-08-27_：🎉🎉 One paper on <u>Text Watermarking</u> got accepted by IEEE TNNLS 2025 
-
--->
+_2025-09-10_：🎉🎉 One paper on <u>Unlearnable Text Watermarking</u> got accepted by IEEE TNNLS 2025 
 
 _2025-08-27_：🏆 Congratulations to freshmen of our group for winning the **national second prize** in the Big Data Chalenge of China Collegiate Computing Contest. 
 
