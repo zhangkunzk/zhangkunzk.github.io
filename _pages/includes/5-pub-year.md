@@ -13,7 +13,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 <!-- 
 
 - ``IEEE TNNLS 2025`` Syntax-oriented Shortcut: A Syntax Level Perturbing Algorithm for Preventing Text Data from Being Learned. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
-Bo Li, **Kun Zhang\***, Richang Hong  
+Bo Li, **Kun Zhang\***, Xi Chen, Richang Hong  
 
 
 - ``FCS 2025`` Low-Rank Spectral Adapter for Parameter-Efficient Fine-tuning of Transformer. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
