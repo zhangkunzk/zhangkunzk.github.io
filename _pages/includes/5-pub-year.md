@@ -18,7 +18,7 @@ Bo Li, **Kun Zhang\***, Xi Chen, Richang Hong
 **Kun Zhang\***, Guangyi Lv, Yubin Huangfu, Minglong Xue, Richang Hong, Jianping Fan, Xin Li, Si Wei
 
 - ``CIKM 2025`` Selective Mixup for Debiasing Question Selection in Computerized Adaptive Testing. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
-Mi Tian, Kun Zhang, Fei Liu, Jinglong Li, Yuxin Liao, Chenxi Bai, Zhengtao Tan, Le Wu, Richang Hong  
+Mi Tian, **Kun Zhang\***, Fei Liu\*, Jinglong Li, Yuxin Liao, Chenxi Bai, Zhengtao Tan, Le Wu, Richang Hong  
 
 
 - ``CCL 2025``(📜<font color=Red><u>Featured Paper</U></font>) EDGE: Enhanced Debiased Gradient Extraction for Robust Fine‑tuning. [\[Paper\]](https://zhangkunzk.github.io/)      
