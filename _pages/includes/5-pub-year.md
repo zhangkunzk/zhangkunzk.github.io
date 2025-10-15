@@ -10,6 +10,11 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``Survey`` Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions. [\[Paper\]](https://arxiv.org/abs/2506.11111), [\[Project\]](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers)   
 **Kun Zhang**, Le Wu, Kui Yu, Guangyi Lv, Dacao Zhang
 
+<!-- 
+- ``IEEE TNNLS 2025`` Semantic-oriented Robust Text Watermarking for Large Language Models. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://zhangkunzk.github.io/)  
+Cheng Song, **Kun Zhang\***, Bo Li, Hailin Zhou, Richang Hong   -->
+
+
 - ``IEEE TNNLS 2025`` Syntax-oriented Shortcut: A Syntax Level Perturbing Algorithm for Preventing Text Data from Being Learned. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
 Bo Li, **Kun Zhang\***, Xi Chen, Richang Hong  
 
