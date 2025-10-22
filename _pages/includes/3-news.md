@@ -2,12 +2,7 @@
 
 _2025-06-17_：📌 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
 
-<!-- 
-
 _2025-10-18_：🏆 Congratulations to our team member for winning the **Best Demo Paper Award** in The 12th International Conference on Behavioural and Social Computing   
-
--->
-
 
 _2025-10-15_：🎉🎉 One paper on <u>Unlearnable Text Watermarking</u> got accepted by IEEE TNNLS 2025 and one paper on <u>Robust Text Watermarking</u> got accepted by FCS 2025
 

@@ -14,6 +14,8 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``IEEE TNNLS 2025`` Semantic-oriented Robust Text Watermarking for Large Language Models. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://zhangkunzk.github.io/)  
 Cheng Song, **Kun Zhang\***, Bo Li, Hailin Zhou, Richang Hong   -->
 
+- ``BESC 2025`` (🏆<font color=Red><u>Best Demo Paper</U></font>) An Automated Extraction System for Material Chemistry Experimental Protocols. [\[Paper\]](https://zhangkunzk.github.io/)     
+Fan Yang, Feiyang Xu, Huadong Liang, Xianghui Fan, Linjiang Chen, **Kun Zhang**, Xin Li, Le Wu, and Shijin Wang  
 
 - ``IEEE TNNLS 2025`` Syntax-oriented Shortcut: A Syntax Level Perturbing Algorithm for Preventing Text Data from Being Learned. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
 Bo Li, **Kun Zhang\***, Xi Chen, Richang Hong  
