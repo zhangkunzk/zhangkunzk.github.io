@@ -11,8 +11,10 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 **Kun Zhang**, Le Wu, Kui Yu, Guangyi Lv, Dacao Zhang
 
 <!-- 
-- ``IEEE TNNLS 2025`` Semantic-oriented Robust Text Watermarking for Large Language Models. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://zhangkunzk.github.io/)  
-Cheng Song, **Kun Zhang\***, Bo Li, Hailin Zhou, Richang Hong   -->
+- ``FCS 2025`` Semantic-oriented Robust Text Watermarking for Large Language Models. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://zhangkunzk.github.io/)  
+Cheng Song, **Kun Zhang\***, Bo Li, Hailin Zhou, Richang Hong   
+
+-->
 
 - ``BESC 2025`` (🏆<font color=Red><u>Best Demo Paper</U></font>) An Automated Extraction System for Material Chemistry Experimental Protocols. [\[Paper\]](https://zhangkunzk.github.io/)     
 Fan Yang, Feiyang Xu, Huadong Liang, Xianghui Fan, Linjiang Chen, **Kun Zhang**, Xin Li, Le Wu, and Shijin Wang  
