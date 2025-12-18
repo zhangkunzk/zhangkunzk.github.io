@@ -12,6 +12,8 @@
 
 # 🥇 Honors and Awards
 
+- *2025.11*  CIKM 2025 **Best Poster Award** in Trustworthy Knowledge Discovery and Data Mining (TrustKDD) Workshop
+- *2025.10*  BESC 2025 **Best Demo Paper Award**
 - *2025.08*  **National Second Prize** in China Collegiate Computing Contest 2025-Big Data Challenge
 - *2025.08*  **Featured Paper award** of CCL 2025 on on <u>Debiased PEFT method of LLMs</u>  
 - *2024.08*  **National Second Prize** in China Collegiate Computing Contest 2024-Big Data Challenge 
