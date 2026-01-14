@@ -2,6 +2,8 @@
 
 _2025-06-17_：📌 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
 
+_2026-01-14_：🎉🎉 One paper on <u>Debiased LLM alignment</u> got accepted by WWW2026
+
 _2025-10-18_：🏆 Congratulations to our team member for winning the **Best Demo Paper Award** in The 12th International Conference on Behavioural and Social Computing   
 
 _2025-10-15_：🎉🎉 One paper on <u>Unlearnable Text Watermarking</u> got accepted by IEEE TNNLS 2025 and one paper on <u>Robust Text Watermarking</u> got accepted by FCS 2025
@@ -12,6 +14,7 @@ _2025-08-13_：🎉🎉 One paper on <u>Debiased PEFT method of LLMs</u> got acc
 
 _2025-08-09_：🎉🎉 One paper on <u>PEFT for Transformers</u> got accepted by Frontiers of Computer Science (FCS) and one paper on  <u>Student Cognitive Diagnosis</u> got accepted by CIKM2025. 
 
+<!--
 _2025-05-16_：🎉🎉 One paper on <u>MoE-based LoRA for LLM multi-task learning</u> got accepted by ACL2025
 
 _2025-03-20_：🎉 Two of my master's students are honored as **Outstanding Graduates in Anhui Province**
@@ -21,7 +24,7 @@ _2025-03-16_：🎉 One paper on <u>Programmatic High-Quality Data Labeling</u> 
 
 _2024-12-03_：🎉 Two paper on <u>Debiased User Preference Modeling</u> got accepted by Frontiers of Computer Science (FCS) and KDD'2025
 
-<!--
+
 _2024-11-05_：🎉 Two of my master's students got Natural Scholarship of 2024
 
 _2024-09-05_：🎉 One paper on <u>Parameter-Efficient Fine-Tuning (PEFT)</u> got accepted by Frontiers of Computer Science (FCS)
