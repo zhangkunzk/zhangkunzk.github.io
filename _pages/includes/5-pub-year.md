@@ -5,13 +5,21 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### Representative Papers
 
-<!-- 
 
-### In the year of 2025: 
+### In the year of 2026: 
 
-- ``WWW 2026`` Mitigating Fine-tuning Bias: A Parameter-Efficient Debiasing Framework for Large Language Models. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://zhangkunzk.github.io/)  
-Qiuyu Li, **Kun Zhang\***, Le Wu, Xin Li, Si Wei
--->
+- ``KDD 2026`` ZeroRel: Relational Reasoning via Graph-guided Large Language Models. [\[Paper\]](https://zhangkunzk.github.io/)   
+Yujie Tian, **Kun Zhang\***, Qiuyu Li, Le Wu, Richang Hong
+
+- ``IEEE TCSS2026`` Semantic-Oriented Robust Sentence Level Text Watermark for Large Language Models. [\[Paper\]](https://ieeexplore.ieee.org/document/11524195)   
+Bo Li, **Kun Zhang\***, Cheng Song, Xi Chen, Hailin Zhou, Richang Hong
+
+- ``ACM TOIS 2026`` Privacy Matters: Data Attack to Make User Preferences Unlearnable in Recommendation.  [\[Paper\]](https://zhangkunzk.github.io/)   
+Pengyang Shao, Le Wu, **Kun Zhang\***, Lei Chen, Meng Wang
+
+- ``WWW 2026`` Mitigating Fine-tuning Bias: A Parameter-Efficient Debiasing Framework for Large Language Models. [\[Paper\]](https://dl.acm.org/doi/10.1145/3774904.3793029), [\[Code\]](https://github.com/lqy1024-stu/PEDAL), [\[Slides\]](https://zhangkunzk.github.io/)  
+Qiuyu Li, **Kun Zhang\***, Le Wu, Hao Liu, Xin Li, Si Wei
+
 
 
 ### In the year of 2025:

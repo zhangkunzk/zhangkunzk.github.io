@@ -12,17 +12,22 @@
 
 # 🥇 Honors and Awards
 
+- *2026.03*  **Outstanding Young Scientist** of Anhui Association for Artifical Intelligence 
+
 - *2025.11*  CIKM 2025 **Best Poster Award** in Trustworthy Knowledge Discovery and Data Mining (TrustKDD) Workshop
 - *2025.10*  BESC 2025 **Best Demo Paper Award**
 - *2025.08*  **National Second Prize** in China Collegiate Computing Contest 2025-Big Data Challenge
 - *2025.08*  **Featured Paper award** of CCL 2025 on on <u>Debiased PEFT method of LLMs</u>  
+
+<!-- 
 - *2024.08*  **National Second Prize** in China Collegiate Computing Contest 2024-Big Data Challenge 
 - *2023.11*  **National Third Prize** in CCIR CUP 2023
 - *2023.08*  **National Third Prize** in China Collegiate Computing Contest 2023-Big Data Challenge 
 - *2022.08*  **National Third Prize** in China Collegiate Computing Contest 2022-Big Data Challenge 
 - *2021.10*  MSRA StarTrack Scholar
 - *2019.09*  The president of the Chinese Academy of Sciences praises.
-- *2018.07*  KDD 2018 Best Student Paper Award.
+- *2018.07*  KDD 2018 Best Student Paper Award. 
+-->
 
 
 
