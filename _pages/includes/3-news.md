@@ -2,7 +2,7 @@
 
 _2025-06-17_：📌 Our Survey about <u>Robustness of Large Language Models</u> has been available on Arxiv and [Github Link](https://github.com/zhangkunzk/Awesome-LLM-Robustness-papers).
 
-_2026-05-18_：🎉🎉 one paper on <u>relational reasoning in LLM</u> got accepted by KDD2026 and one paper on <u>text watermarking of LLM</u> got accepted by IEEE TCSS2026
+_2026-05-18_：🎉🎉 one paper on <u>relational reasoning in LLM</u> got accepted by KDD2026 and one paper on <u>text watermarking of LLM</u> got accepted by IEEE TCSS2026, and one paper on <u>AI4Science</u> got accepted by IJCAI2026
 
 _2026-03-15_：🎉🎉 One paper on <u>Data Attack</u> got accepted by ACM TOIS2026
 

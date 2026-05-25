@@ -14,6 +14,9 @@ Yujie Tian, **Kun Zhang\***, Qiuyu Li, Le Wu, Richang Hong
 - ``IEEE TCSS2026`` Semantic-Oriented Robust Sentence Level Text Watermark for Large Language Models. [\[Paper\]](https://ieeexplore.ieee.org/document/11524195)   
 Bo Li, **Kun Zhang\***, Cheng Song, Xi Chen, Hailin Zhou, Richang Hong
 
+- ``IJCAI 2026`` ChemKGL: Bridging Knowledge Graphs and Large Language Models for Chemical Multi-Step Reaction Pathway Inference. [\[Paper\]](https://zhangkunzk.github.io/)   
+Fan Yang , Feiyang Xu, **Kun Zhang**, Huadong Liang, Pengyang Shao, Xin Li, and Le Wu
+
 - ``ACM TOIS 2026`` Privacy Matters: Data Attack to Make User Preferences Unlearnable in Recommendation.  [\[Paper\]](https://zhangkunzk.github.io/)   
 Pengyang Shao, Le Wu, **Kun Zhang\***, Lei Chen, Meng Wang
 
