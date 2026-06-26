@@ -48,6 +48,9 @@ Bo Li, **Kun Zhang\***, Xi Chen, Richang Hong
 - ``CIKM 2025`` Selective Mixup for Debiasing Question Selection in Computerized Adaptive Testing. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]](https://github.com/zhangkunzk/SpecAdapt_pytorch)  
 Mi Tian, **Kun Zhang\***, Fei Liu\*, Jinglong Li, Yuxin Liao, Chenxi Bai, Zhengtao Tan, Le Wu, Richang Hong  
 
+- ``DASFAA 2025`` MASS: Mitigating Aspect-Oriented Semantic Sparsity for Fine-Grained Sentiment Analysis. [\[Paper\]](https://link.springer.com/chapter/10.1007/978-981-95-3827-0_27)  
+Yanjiang Chen, Kai Zhang, Zhe Yang, Linan Yue, Xinjie Sun, **Kun Zhang**, Qi Liu
+
 
 - ``CCL 2025``(📜<font color=Red><u>Featured Paper</U></font>) EDGE: Enhanced Debiased Gradient Extraction for Robust Fine‑tuning. [\[Paper\]](https://zhangkunzk.github.io/)      
 Jinglong Li, **Kun Zhang\***, Chenyu Zou, Wei Shi, Xin Li, Si Wei
