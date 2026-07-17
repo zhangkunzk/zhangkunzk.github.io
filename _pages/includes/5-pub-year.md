@@ -8,7 +8,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### In the year of 2026: 
 
-- ``CCIR 2026`` Bias-Amplification and Bias-Elimination Framework for Debiased User Modeling and Cognitive Diagnosis. [\[Paper\]](https://zhangkunzk.github.io/)   
+- ``CCIR 2026`` Bias-Amplification and Bias-Elimination Framework for Debiased User Modeling and Cognitive Diagnosis. [\[Paper\]](https://zhangkunzk.github.io/), [\[Code\]]( https://github.com/qingli-ql/BABE)   
 **Kun Zhang**, Jinglong Li, Le Wu, Hailin Zhou, Richang Hong
 
 - ``KDD 2026`` ZeroRel: Relational Reasoning via Graph-guided Large Language Models. [\[Paper\]](https://zhangkunzk.github.io/)   
